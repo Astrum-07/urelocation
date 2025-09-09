@@ -16,3 +16,6 @@
   --breakpoint-xr: 450px; 
 
 }
+.l{
+  overflow-x: scroll;
+}
