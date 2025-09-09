@@ -1,0 +1,12 @@
+let
+var
+const bular o'zgaruvchilar 
+ularni bir biridan farqi bor 
+var bu js chiqqandan beri ishlab kelayotgan o'zgaruvhi 
+js bu ecma tomonidan yaratilgan 
+10 kun ichida jsni yadrosi yaratilgan 
+console.log bu algoritimni ishlatadigan buyruq
+js istalgan arifmetik amalni bajara oladi 
+js hisoblay oladigan eng katta son bu 16 raqamdan iborat son 
+js juda mukkammal til 
+js brouserda ishlaydi uni arifmetik ifodalarini terminal orqai ham tekshirish mumkin 
